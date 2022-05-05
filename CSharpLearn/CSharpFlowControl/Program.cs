@@ -10,7 +10,7 @@ namespace CSharpFlowControl
     {
         static void Main(string[] args)
         {
-
+            //IF ELSE
             int number = 12;
             if (number < 5)
             {
@@ -31,6 +31,30 @@ namespace CSharpFlowControl
             else
             {
                 Console.WriteLine("{0} is equal to 5",number);
+            }
+
+
+            //SWITCH Stmt
+            char ch;
+            Console.WriteLine("Enter an alphabet");
+            ch = Convert.ToChar(Console.ReadLine().ToLower());
+
+            switch (ch)
+            {
+                case 'a':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'e':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'i':
+                case 'o':
+                case 'u':
+                    Console.WriteLine("Vowel");
+                    break;
+                default:
+                    Console.WriteLine("Not a vowel");
+                    break;
             }
             Console.WriteLine("This statement is always execuated.");
             Console.ReadLine();
