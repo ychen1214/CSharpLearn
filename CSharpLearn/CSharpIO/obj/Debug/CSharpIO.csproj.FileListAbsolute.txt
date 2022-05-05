@@ -1,0 +1,7 @@
+D:\CSharpLearn\CSharpLearn\CSharpIO\bin\Debug\CSharpIO.exe.config
+D:\CSharpLearn\CSharpLearn\CSharpIO\bin\Debug\CSharpIO.exe
+D:\CSharpLearn\CSharpLearn\CSharpIO\bin\Debug\CSharpIO.pdb
+D:\CSharpLearn\CSharpLearn\CSharpIO\obj\Debug\CSharpIO.csproj.AssemblyReference.cache
+D:\CSharpLearn\CSharpLearn\CSharpIO\obj\Debug\CSharpIO.csproj.CoreCompileInputs.cache
+D:\CSharpLearn\CSharpLearn\CSharpIO\obj\Debug\CSharpIO.exe
+D:\CSharpLearn\CSharpLearn\CSharpIO\obj\Debug\CSharpIO.pdb
