@@ -56,6 +56,37 @@ namespace CSharpFlowControl
                     Console.WriteLine("Not a vowel");
                     break;
             }
+
+            //Ternary Operator
+            int terNum = 2;
+            bool isEven;
+
+            isEven = (terNum % 2 == 0) ? true : false;
+            Console.WriteLine(isEven);
+
+
+            //FOR Loop
+            for (int i = 1; i<=5; i++)
+            {
+                
+                if (i == 2)
+                {
+                    //move to end of loop
+                    continue;
+                }
+                
+                if (i == 3)
+                {
+                    //Exits loop
+                    break;
+                }
+                Console.WriteLine("C# For Loop: Iteration {0}", i);
+            }
+
+            for (int i=0, j=0; i+j<=5; i++,j++)
+            {
+                Console.WriteLine("i = {0} and j = {1}", i, j);
+            }
             Console.WriteLine("This statement is always execuated.");
             Console.ReadLine();
         }
