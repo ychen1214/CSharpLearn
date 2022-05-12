@@ -1,0 +1,7 @@
+D:\CSharpLearn\CSharpLearn\CSharpArray\bin\Debug\CSharpArray.exe.config
+D:\CSharpLearn\CSharpLearn\CSharpArray\bin\Debug\CSharpArray.exe
+D:\CSharpLearn\CSharpLearn\CSharpArray\bin\Debug\CSharpArray.pdb
+D:\CSharpLearn\CSharpLearn\CSharpArray\obj\Debug\CSharpArray.csproj.AssemblyReference.cache
+D:\CSharpLearn\CSharpLearn\CSharpArray\obj\Debug\CSharpArray.csproj.CoreCompileInputs.cache
+D:\CSharpLearn\CSharpLearn\CSharpArray\obj\Debug\CSharpArray.exe
+D:\CSharpLearn\CSharpLearn\CSharpArray\obj\Debug\CSharpArray.pdb
