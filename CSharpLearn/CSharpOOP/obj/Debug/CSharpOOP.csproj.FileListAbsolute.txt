@@ -1,0 +1,7 @@
+D:\CSharpLearn\CSharpLearn\CSharpOOP\bin\Debug\CSharpOOP.exe.config
+D:\CSharpLearn\CSharpLearn\CSharpOOP\bin\Debug\CSharpOOP.exe
+D:\CSharpLearn\CSharpLearn\CSharpOOP\bin\Debug\CSharpOOP.pdb
+D:\CSharpLearn\CSharpLearn\CSharpOOP\obj\Debug\CSharpOOP.csproj.AssemblyReference.cache
+D:\CSharpLearn\CSharpLearn\CSharpOOP\obj\Debug\CSharpOOP.csproj.CoreCompileInputs.cache
+D:\CSharpLearn\CSharpLearn\CSharpOOP\obj\Debug\CSharpOOP.exe
+D:\CSharpLearn\CSharpLearn\CSharpOOP\obj\Debug\CSharpOOP.pdb
