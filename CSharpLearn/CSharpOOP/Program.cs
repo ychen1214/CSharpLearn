@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace CSharpOOP
 {
-    class Dog
+    class Animal
+    {
+        public string name;
+
+        public void display()
+        {
+            Console.WriteLine("I am an animal");
+        }
+    }
+    
+    class Dog : Animal
     {
         //string breed;
 
@@ -14,6 +24,11 @@ namespace CSharpOOP
         {
             Console.WriteLine("Bark Bark !!");
         }
+        public void getName()
+        {
+            Console.WriteLine("My name is " + name);
+        }
+
     }
     class Program
     {
@@ -62,7 +77,13 @@ namespace CSharpOOP
             p1.Display(1);
             p1.Display(1, 2);
 
-            
+            Dog lab = new Dog();
+
+            lab.name = "Rojit";
+            lab.display();
+
+            //access 
+            lab.getName();
 
             Console.ReadLine();
 
