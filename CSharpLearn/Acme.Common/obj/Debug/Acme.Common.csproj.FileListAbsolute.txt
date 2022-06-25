@@ -1,0 +1,6 @@
+D:\CSharpLearn\CSharpLearn\Acme.Common\bin\Debug\Acme.Common.dll
+D:\CSharpLearn\CSharpLearn\Acme.Common\bin\Debug\Acme.Common.pdb
+D:\CSharpLearn\CSharpLearn\Acme.Common\obj\Debug\Acme.Common.csproj.AssemblyReference.cache
+D:\CSharpLearn\CSharpLearn\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+D:\CSharpLearn\CSharpLearn\Acme.Common\obj\Debug\Acme.Common.dll
+D:\CSharpLearn\CSharpLearn\Acme.Common\obj\Debug\Acme.Common.pdb

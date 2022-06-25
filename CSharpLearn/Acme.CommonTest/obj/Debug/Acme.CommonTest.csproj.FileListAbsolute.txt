@@ -1,0 +1,16 @@
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Acme.Common.dll
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Acme.Common.pdb
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.AssemblyReference.cache
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CoreCompileInputs.cache
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+D:\CSharpLearn\CSharpLearn\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
