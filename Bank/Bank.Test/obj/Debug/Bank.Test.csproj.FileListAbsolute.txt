@@ -1,0 +1,17 @@
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Bank.Test.dll
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Bank.Test.pdb
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Bank.exe
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Bank.pdb
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Bank.exe.config
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CSharpLearn\Bank\Bank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CSharpLearn\Bank\Bank.Test\obj\Debug\Bank.Test.csproj.AssemblyReference.cache
+D:\CSharpLearn\Bank\Bank.Test\obj\Debug\Bank.Test.csproj.CoreCompileInputs.cache
+D:\CSharpLearn\Bank\Bank.Test\obj\Debug\Bank.Test.csproj.CopyComplete
+D:\CSharpLearn\Bank\Bank.Test\obj\Debug\Bank.Test.dll
+D:\CSharpLearn\Bank\Bank.Test\obj\Debug\Bank.Test.pdb

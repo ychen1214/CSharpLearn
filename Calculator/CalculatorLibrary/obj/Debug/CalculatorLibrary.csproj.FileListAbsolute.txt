@@ -1,0 +1,9 @@
+D:\CSharpLearn\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+D:\CSharpLearn\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+D:\CSharpLearn\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+D:\CSharpLearn\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\CSharpLearn\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+D:\CSharpLearn\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
+D:\CSharpLearn\Calculator\CalculatorLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\CSharpLearn\Calculator\CalculatorLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\CSharpLearn\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CopyComplete

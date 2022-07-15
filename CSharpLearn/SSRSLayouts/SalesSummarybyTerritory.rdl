@@ -47,39 +47,6 @@ GROUP BY st.TerritoryName, sts.StatusName, YEAR(so.SalesDate)</CommandText>
     <ReportSection>
       <Body>
         <ReportItems>
-          <Textbox Name="ReportTitle">
-            <CanGrow>true</CanGrow>
-            <KeepTogether>true</KeepTogether>
-            <Paragraphs>
-              <Paragraph>
-                <TextRuns>
-                  <TextRun>
-                    <Value>Sales Summary by Territory</Value>
-                    <Style>
-                      <FontFamily>Segoe UI Light</FontFamily>
-                      <FontSize>28pt</FontSize>
-                    </Style>
-                  </TextRun>
-                </TextRuns>
-                <Style />
-              </Paragraph>
-            </Paragraphs>
-            <rd:WatermarkTextbox>Title</rd:WatermarkTextbox>
-            <rd:DefaultName>ReportTitle</rd:DefaultName>
-            <Top>0.22792in</Top>
-            <Left>1.02083in</Left>
-            <Height>0.58333in</Height>
-            <Width>4.50695in</Width>
-            <Style>
-              <Border>
-                <Style>None</Style>
-              </Border>
-              <PaddingLeft>2pt</PaddingLeft>
-              <PaddingRight>2pt</PaddingRight>
-              <PaddingTop>2pt</PaddingTop>
-              <PaddingBottom>2pt</PaddingBottom>
-            </Style>
-          </Textbox>
           <Tablix Name="Tablix1">
             <TablixBody>
               <TablixColumns>
@@ -629,30 +596,14 @@ GROUP BY st.TerritoryName, sts.StatusName, YEAR(so.SalesDate)</CommandText>
                 <Value>=Fields!TerritoryName.Value</Value>
               </SortExpression>
             </SortExpressions>
-            <Top>0.96111in</Top>
             <Height>1.025in</Height>
             <Width>5.65278in</Width>
-            <ZIndex>1</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
               </Border>
             </Style>
           </Tablix>
-          <Image Name="CompanyLogo">
-            <Source>Embedded</Source>
-            <Value>wiredbraincoffeelogo</Value>
-            <Sizing>FitProportional</Sizing>
-            <Height>1.05556in</Height>
-            <Width>1.10417in</Width>
-            <ZIndex>2</ZIndex>
-            <ToolTip>CompanyLogo</ToolTip>
-            <Style>
-              <Border>
-                <Style>None</Style>
-              </Border>
-            </Style>
-          </Image>
         </ReportItems>
         <Height>2.375in</Height>
         <Style>
@@ -663,10 +614,100 @@ GROUP BY st.TerritoryName, sts.StatusName, YEAR(so.SalesDate)</CommandText>
       </Body>
       <Width>7in</Width>
       <Page>
+        <PageHeader>
+          <Height>1.05556in</Height>
+          <PrintOnFirstPage>true</PrintOnFirstPage>
+          <PrintOnLastPage>true</PrintOnLastPage>
+          <ReportItems>
+            <Textbox Name="ReportTitle">
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>Sales Summary by Territory</Value>
+                      <Style>
+                        <FontFamily>Segoe UI Light</FontFamily>
+                        <FontSize>28pt</FontSize>
+                      </Style>
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+              </Paragraphs>
+              <rd:WatermarkTextbox>Title</rd:WatermarkTextbox>
+              <rd:DefaultName>ReportTitle</rd:DefaultName>
+              <Top>0.025in</Top>
+              <Left>1.11806in</Left>
+              <Height>0.58333in</Height>
+              <Width>4.50695in</Width>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+            <Image Name="CompanyLogo">
+              <Source>Embedded</Source>
+              <Value>wiredbraincoffeelogo</Value>
+              <Sizing>FitProportional</Sizing>
+              <Height>1.05556in</Height>
+              <Width>1.10417in</Width>
+              <ZIndex>1</ZIndex>
+              <ToolTip>CompanyLogo</ToolTip>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+              </Style>
+            </Image>
+          </ReportItems>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </PageHeader>
         <PageFooter>
           <Height>0.47083in</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
+          <ReportItems>
+            <Textbox Name="PageNumber">
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>=Globals!PageNumber &amp; " of " &amp; Globals!TotalPages</Value>
+                      <Style />
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+              </Paragraphs>
+              <rd:DefaultName>PageNumber</rd:DefaultName>
+              <Top>0.06944in</Top>
+              <Left>5.86458in</Left>
+              <Height>0.25in</Height>
+              <Width>1in</Width>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+          </ReportItems>
           <Style>
             <Border>
               <Style>None</Style>

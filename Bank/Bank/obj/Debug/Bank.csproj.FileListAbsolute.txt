@@ -1,0 +1,7 @@
+D:\CSharpLearn\Bank\Bank\bin\Debug\Bank.exe.config
+D:\CSharpLearn\Bank\Bank\bin\Debug\Bank.exe
+D:\CSharpLearn\Bank\Bank\bin\Debug\Bank.pdb
+D:\CSharpLearn\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\CSharpLearn\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\CSharpLearn\Bank\Bank\obj\Debug\Bank.exe
+D:\CSharpLearn\Bank\Bank\obj\Debug\Bank.pdb
